@@ -17,6 +17,10 @@ set(uint256 _number)	    external	    Stores the input number on-chain
 GetNumber()	                external        view	Returns the currently stored number
 DeleteNumber()	            external	    Deletes (resets) the stored number to 0
 
+🔗 Deployed Contract
+
+- [View on Sepolia Etherscan](https://sepolia.etherscan.io/address/0xBf700844e4E87E0B405A908E713fE444F438e3A0#code)
+
 🧪 How to Test
 
 You can test this contract in the Remix IDE using the following steps:
